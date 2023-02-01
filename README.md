@@ -13,3 +13,7 @@ https://docs.uipath.com/releasenotes/docs/2019-10-1
 Platform Installer Download Link: https://download.uipath.com/UiPathPlatformInstaller.exe (712 MB)
 
 http://download.uipath.com/versions/19.10.6/UiPathOrchestrator.msi
+
+
+OData for API
+http://docs.oasis-open.org/odata/odata/v4.0/errata03/os/complete/part1-protocol/odata-v4.0-errata03-os-part1-protocol-complete.html
