@@ -15,5 +15,11 @@ Platform Installer Download Link: https://download.uipath.com/UiPathPlatformInst
 http://download.uipath.com/versions/19.10.6/UiPathOrchestrator.msi
 
 
-OData for API
+#OData for API
 http://docs.oasis-open.org/odata/odata/v4.0/errata03/os/complete/part1-protocol/odata-v4.0-errata03-os-part1-protocol-complete.html
+
+
+
+#UiPath-Read-Excel-File-As-A-Database
+#Read a excel file as a Datatable and use query to fetch data
+https://go.uipath.com/component/uipath-workflow-select-query-using-oled
