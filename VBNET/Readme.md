@@ -2,5 +2,5 @@
 (new System.Net.NetworkCredential(String.Empty,MailboxPassword)).Password
 
 
-
-"internetMessageId eq '"+in_EmailID+"'"
+Dispatcher OutputEmails(0).Headers("Message-ID").ToString
+Performer "internetMessageId eq '"+in_EmailID+"'"
