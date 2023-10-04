@@ -23,3 +23,16 @@ http://docs.oasis-open.org/odata/odata/v4.0/errata03/os/complete/part1-protocol/
 #UiPath-Read-Excel-File-As-A-Database
 #Read a excel file as a Datatable and use query to fetch data
 https://go.uipath.com/component/uipath-workflow-select-query-using-oled
+
+
+
+    If you feel like all of these are taking time, you can construct the download url by yourself.
+
+        Check the release notes to find out what’s the latest version available
+        https://docs.uipath.com/orchestrator/docs/release-notes-2021-4-3
+
+        Construct the URL as below:
+        https://download.uipath.com/versions/{version_no}/UiPathOrchestrator.msi
+
+        Current version available is 21.4.3, so you can try the below URL for msi file.
+        https://download.uipath.com/versions/21.4.3/UiPathOrchestrator.msi
